@@ -1,0 +1,1 @@
+Add Hamburgers to the list of what is available and choose to devour it if you want! It will move it over to the eaten row! So you can keep track of the delicious burgers you have eaten! :) 
